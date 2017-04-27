@@ -1,0 +1,43 @@
+# Site settings
+title: Victor Cosqui
+name: Víctor Cosqui Macías
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/vcosqui
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/vcosqui
+
+#Any buzzword skills you want to include
+skills:
+ - Java
+ - Spring Boot
+ - Maven
+ - Linux
+ - Configuration management
+ - SQL
+ - REST
+ - Architecture
+
+#Work experience is required
+roles:
+ - title: Solutions arquitect
+   start: 2010
+   end: Ongoing
+   employer: SICPA Spain
+   description: Several roles as developer, scrum master, product owner, project manager and solution architect at R&D division.
+                Promoter of the transition from an unmanaged and not mature development process to a fully continuous delivery process. The transition involved all the departments in the division including development team, management, sales and operations. And was done based on a LEAN development process with a strong base of SCRUM practices.
+                Development of a multi device multi language solution involving a Spring Framework based microservices architecture and also IPhone and Android applications, fully automation and provision of the different components, live specification and automated acceptance tests.
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - vcosqui
+
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   bla bla
